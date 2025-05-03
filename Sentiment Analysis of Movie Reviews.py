@@ -16,3 +16,5 @@ print("First Elements of test set:\n {}".format(test.head(3)))
 text_test = test['review'].values
 y_test = test['sentiment'].values
 print('Number of test samples: ', len(y_test))
+
+#ciao
